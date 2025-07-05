@@ -1,4 +1,4 @@
-# 📘 Python Learnings
+# 📘 Python
 
 Welcome to my **Python Learnings** repository! This is a curated collection of my Python programming journey — from core concepts to practical mini-projects. Whether you're new to Python or brushing up your skills, this repo can help you get hands-on quickly.
 
